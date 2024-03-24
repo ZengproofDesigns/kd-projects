@@ -311,7 +311,7 @@ a:hover
 {
    clear: both;
 }
-@media (max-width: 480px)
+
 {
 #team_grid > .row > .col-1, #team_grid > .row > .col-2, #team_grid > .row > .col-3
 {
